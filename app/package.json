@@ -22,7 +22,7 @@
     "protobufjs": "7.5.5",
     "tar": "7.5.13",
     "tmp": "0.2.5",
-    "vite": "6.4.2"
+    "vite": "6.4.5"
   },
   "overrides": {
     "protobufjs": "7.5.5"
@@ -89,7 +89,7 @@
     "@typescript-eslint/parser": "^8.58.2",
     "@vitejs/plugin-react": "^5.2.0",
     "@vitest/coverage-v8": "^4.1.4",
-    "electron": "41.2.1",
+    "electron": "42.11.16",
     "eslint": "^10.2.1",
     "eslint-plugin-import-x": "^4.0.0",
     "eslint-plugin-react-hooks": "^7.1.1",
@@ -100,20 +100,20 @@
     "pngjs": "^7.0.0",
     "ts-node": "^10.9.2",
     "typescript": "~5.6.0",
-    "vite": "^6.4.2",
-    "vitest": "^4.1.4"
+    "vite": "^6.4.5",
+    "vitest": "^5.0.5"
   },
   "dependencies": {
     "@hapi/boom": "^10.0.1",
     "@tanstack/react-query": "^5.100.8",
-    "@types/ws": "^8.18.1",
+    "@types/ws": "^8.18.2",
     "@visx/curve": "^3.12.0",
     "@visx/gradient": "^3.12.0",
     "@visx/group": "^3.12.0",
     "@visx/responsive": "^3.12.0",
     "@visx/scale": "^3.12.0",
     "@visx/shape": "^3.12.0",
-    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "@whiskeysockets/baileys": "^7.0.0-rc14",
     "@xterm/addon-fit": "^0.11.0",
     "@xterm/addon-web-links": "^0.12.0",
     "@xterm/addon-webgl": "^0.19.0",
@@ -134,7 +134,7 @@
     "react-markdown": "^10.1.0",
     "remark-breaks": "^4.0.0",
     "remark-gfm": "^4.0.1",
-    "ws": "^8.20.0",
+    "ws": "^8.22.0",
     "zod": "^4.3.6",
     "zustand": "^5.0.13"
   }
